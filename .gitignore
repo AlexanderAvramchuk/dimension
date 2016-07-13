@@ -1,0 +1,10 @@
+/media
+/venv
+/static
+/.idea
+migrations/
+*.pyc
+*.py[cod]
+*.sql
+.env/
+settings_local.py
